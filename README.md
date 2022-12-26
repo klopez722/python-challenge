@@ -1,9 +1,10 @@
-# python-challenge
+# Python-challenge
 
+In this assignment, i completed two challenges in which i applied and showed my Python skills:
 
--In this challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: "Date" and "Profit/Losses". (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
+--PyBank--
 
-Your task is to create a Python script that analyzes the records to calculate each of the following:
+Created a Python script that analyzes the records to calculate each of the following:
 
 * The total number of months included in the dataset
 
@@ -14,3 +15,22 @@ Your task is to create a Python script that analyzes the records to calculate ea
 * The greatest increase in profits (date and amount) over the entire period
 
 * The greatest decrease in profits (date and amount) over the entire period
+
+Results located in analysis 
+
+
+--PyPoll--
+
+Created a Python script that analyzes the records to calculate each of the following:
+
+* The total number of votes cast
+
+* A complete list of candidates who received votes
+
+* The percentage of votes each candidate won
+
+* The total number of votes each candidate won
+
+* The winner of the election based on popular vote.
+
+Result located in analysis 
